@@ -1,0 +1,4 @@
+# Ignorare tutti i file di un tipo
+*.log
+*.csv
+**/.env
